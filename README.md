@@ -1,5 +1,5 @@
 # JmeterSamplers
-JmeterSamples - примеры скриптов для нагрузочного тестирвоания.
+JmeterSamples - примеры скриптов для нагрузочного тестирвоания на примере сайта reqres.in
 
 Описание тестов:
 1. GetVarFromJSON_ForEachController.jmx - перебор всех значений из массива, полученого в JSON-response
