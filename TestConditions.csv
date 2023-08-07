@@ -1,0 +1,6 @@
+field1;responseContainsText;responseCode
+3;data;200;
+10;data;200;
+101;{};404;
+102;{};404;
+103;{};401;
